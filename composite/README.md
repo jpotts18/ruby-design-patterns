@@ -33,3 +33,6 @@ Each folder must have the following methods:
 ### Notes
 
 * Maintaining a reference to the parent can be helpful for better performance. Think about depth searches.
+* Example: XML Parser - Nokogiri
+* Example: UI - Views with Subviews
+* `get_children` or `get_parent` methods
