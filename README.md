@@ -20,3 +20,5 @@ A playground for me to learn design patterns in Ruby while reading Head First De
 * Template Method
 
 ### Structural Patterns:
+
+* Composite
